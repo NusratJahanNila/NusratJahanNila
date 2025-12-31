@@ -1,7 +1,7 @@
 ![MasterHead](https://i.ibb.co.com/RGWH1wNF/Green-and-Black-Modern-Software-Developer-Linked-In-Banner-1.png)
 
 <h1 align="center">Hi 👋, I'm Nusrat Jahan</h1>
-<h3 align="center">A passionate MERN Stack Developer from Bangladesh 🇧🇩</h3>
+<h3 align="center">A passionate MERN Stack Developer from Bangladesh</h3>
 
 <img align="right" 
      alt="Coding" 
