@@ -27,7 +27,7 @@
 ### 🤝 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/your-username" target="_blank">
+  <a href="https://www.linkedin.com/in/nusrat-jahan-web" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   
@@ -63,8 +63,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nusratjahannila&show_icons=true&theme=default" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nusratjahannila&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=nusratjahannila&show_icons=true&cache_seconds=1800" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusratjahannila&layout=compact&cache_seconds=1800" height="165"/>
 </p>
 
 <p align="center">
