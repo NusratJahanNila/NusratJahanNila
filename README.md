@@ -63,10 +63,19 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nusratjahannila&show_icons=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nusratjahannila&layout=compact" height="165"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=nusratjahannila&show_icons=true&hide_border=true&cache_seconds=1800" 
+    height="165" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nusratjahannila&layout=compact&hide_border=true&cache_seconds=1800" 
+    height="165" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nusratjahannila" />
+  <img 
+    src="https://streak-stats.demolab.com?user=nusratjahannila&hide_border=true" 
+  />
 </p>
+
