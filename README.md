@@ -15,6 +15,7 @@
 ---
 
 ### 👩‍💻 About Me
+<p>I build web applications using React, Node.js, Express, and MongoDB. Currently learning Next.js and integrating AI tools. Passionate about clean code and modern</p>
 
 - 🔭 Currently working on **MaritalDesk**
 - 🌱 Learning **Next.js** and **AI-powered development tools**
