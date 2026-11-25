@@ -1,7 +1,7 @@
 <!-- ===================== HERO ===================== -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:3B2A1E,45:C68B4E,100:E0457B&text=Hi,%20I'm%20Nusrat%20Jahan&fontSize=52&fontColor=FFF8EE&fontAlignY=36&desc=Junior%20Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=20&descAlignY=56&animation=twinkling" alt="Nusrat Jahan banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:4A1F0A,45:A8471A,100:E0782A&text=Hi,%20I'm%20Nusrat%20Jahan&fontSize=52&fontColor=FFF3E0&fontAlignY=36&desc=Junior%20Software%20Engineer%20%E2%80%A2%20Full%20Stack%20Developer&descSize=20&descAlignY=56&animation=fadeIn" alt="Nusrat Jahan banner" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=900&color=D4A15A&center=true&vCenter=true&width=700&lines=Building+healthcare+tech+in+Bangladesh+%F0%9F%87%A7%F0%9F%87%A9;Next.js+%E2%80%A2+TypeScript+%E2%80%A2+MongoDB;Clean+code.+Polished+UI.+Real+impact.+%E2%9C%A8;Turning+complex+problems+into+simple+products" alt="Typing SVG" />
@@ -128,6 +128,10 @@ const nusrat = {
 
 </div>
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/NusratJahanNila/NusratJahanNila/output/snake-dark.svg" alt="contribution snake" />
+</div>
+
 <!-- ===================== FOOTER ===================== -->
 <div align="center">
 
@@ -136,6 +140,6 @@ const nusrat = {
 <a href="mailto:nnusratjahan330@gmail.com"><img src="https://img.shields.io/badge/Say%20Hello-E0457B?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <a href="https://www.linkedin.com/in/nusrat-jahan-web"><img src="https://img.shields.io/badge/Connect-C68B4E?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:E0457B,55:C68B4E,100:3B2A1E&section=footer&animation=twinkling" alt="footer" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:E0782A,55:A8471A,100:4A1F0A&section=footer&animation=fadeIn" alt="footer" />
 
 </div>
